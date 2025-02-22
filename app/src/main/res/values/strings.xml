@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Buttons</string>
+    <integer name="smallSpace">16</integer>
+    <string name="clickLabel"> Number of Clicks:</string>
+</resources>
